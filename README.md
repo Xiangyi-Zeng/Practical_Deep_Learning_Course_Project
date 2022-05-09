@@ -2,7 +2,7 @@
 
 ## Project Description
 
-- Use **PTQ4ViT** framework to do post-training quantization on ViT Models
+- Modify and derive from **PTQ4ViT** framework to do post-training quantization on ViT Models
 - Use **Pytorch** Dynamic Quantization to do post-training quantization on ViT Models
 - Compare Test accuracy and model size achieved by different PTQ methods
 - Compare throughput of ViT models with and without dynamic quantization of Pytorch
